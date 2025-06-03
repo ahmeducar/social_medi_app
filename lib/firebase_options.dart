@@ -47,29 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDs4SKrb-hglPUZUmCPQsB7RGbIT9FSsxg',
-    appId: '1:423502301630:web:89321088ba409d478a11ef',
-    messagingSenderId: '423502301630',
-    projectId: 'comtwittercloneapp',
-    authDomain: 'comtwittercloneapp.firebaseapp.com',
-    storageBucket: 'comtwittercloneapp.firebasestorage.app',
-    measurementId: 'G-E6VWX78N3M',
+    apiKey: 'admadnasdjmasdmas',
+    appId: 'adasdmasdajdmadjasmdj',
+    messagingSenderId: 'admsadjmadjsamdajds',
+    projectId: 'asdamdajdmasdjamdad',
+    authDomain: 'asdadasdamdajds',
+    storageBucket: 'amdsajdmasdhadmsadha',
+    measurementId: 'asmdajdmsadjamdsajd',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDO3dx__0Erdqn9zaJmdJN37H-LegSTVTw',
-    appId: '1:423502301630:android:1d1a6d2fa80302f28a11ef',
-    messagingSenderId: '423502301630',
-    projectId: 'comtwittercloneapp',
-    storageBucket: 'comtwittercloneapp.firebasestorage.app',
+    apiKey: 'amsdsajdmadjamdajd',
+    appId: 'amdsajdsamdjadmajd',
+    messagingSenderId: 'asdajsdajdmsadnadsjadsha',
+    projectId: 'amsduajdmasdjamdajdmsjads',
+    storageBucket: 'msadhajdmadhjamsdahjd',
   );
 
+    
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAUmAaT-wRV0du93tULbs9Bq6GSJCCOifg',
-    appId: '1:423502301630:ios:fd664563f1e68d778a11ef',
-    messagingSenderId: '423502301630',
-    projectId: 'comtwittercloneapp',
-    storageBucket: 'comtwittercloneapp.firebasestorage.app',
-    iosBundleId: 'com.example.twitterCloneApp',
+    apiKey: 'amdsaudamdjasdmadjasda',
+    appId: 'amdsajdmadjamdajdsmadj',
+    messagingSenderId: 'amdajsdmadjamsdjadmajdsa',
+    projectId: 'madshsamashdamdhajsmdsahd',
+    storageBucket: 'masdjadmsahdjmadshjsamdahdsmasd',
+    iosBundleId: 'amdsjhasdmdjadmajhsd',
   );
 }
